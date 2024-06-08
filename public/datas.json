@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Mediterranean Quinoa Salad",
+    "image": "https://example.com/images/mediterranean_quinoa_salad.jpg",
+    "description": "A refreshing salad with quinoa, cucumbers, cherry tomatoes, feta cheese, and a tangy lemon vinaigrette.",
+    "ingredients": [
+      "1 cup quinoa",
+      "2 cups water",
+      "1 cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cup feta cheese, crumbled",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup olives, sliced",
+      "2 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "calories": 320,
+    "minutes": 25
+  },
+  {
+    "title": "Spicy Chicken Tacos",
+    "image": "https://example.com/images/spicy_chicken_tacos.jpg",
+    "description": "Juicy chicken strips with a spicy rub, topped with fresh salsa and creamy avocado in a warm tortilla.",
+    "ingredients": [
+      "2 chicken breasts",
+      "2 tablespoons taco seasoning",
+      "1 tablespoon olive oil",
+      "8 small tortillas",
+      "1 cup shredded lettuce",
+      "1 cup diced tomatoes",
+      "1 avocado, sliced",
+      "1/4 cup sour cream",
+      "1/4 cup cilantro, chopped"
+    ],
+    "calories": 410,
+    "minutes": 30
+  },
+  {
+    "title": "Vegan Buddha Bowl",
+    "image": "https://example.com/images/vegan_buddha_bowl.jpg",
+    "description": "A nourishing bowl filled with brown rice, roasted vegetables, chickpeas, and a creamy tahini dressing.",
+    "ingredients": [
+      "1 cup brown rice",
+      "2 cups water",
+      "1 sweet potato, diced",
+      "1 red bell pepper, sliced",
+      "1 cup broccoli florets",
+      "1 can chickpeas, drained and rinsed",
+      "2 tablespoons olive oil",
+      "2 tablespoons tahini",
+      "1 tablespoon lemon juice",
+      "1 tablespoon maple syrup",
+      "Salt and pepper to taste"
+    ],
+    "calories": 450,
+    "minutes": 35
+  },
+  {
+    "title": "Garlic Butter Shrimp",
+    "image": "https://example.com/images/garlic_butter_shrimp.jpg",
+    "description": "Succulent shrimp sautéed in garlic butter with a hint of lemon and parsley, served with crusty bread.",
+    "ingredients": [
+      "1 pound large shrimp, peeled and deveined",
+      "4 tablespoons butter",
+      "4 cloves garlic, minced",
+      "2 tablespoons lemon juice",
+      "1/4 cup parsley, chopped",
+      "Salt and pepper to taste",
+      "1 loaf crusty bread"
+    ],
+    "calories": 380,
+    "minutes": 20
+  },
+  {
+    "title": "Classic Margherita Pizza",
+    "image": "https://example.com/images/classic_margherita_pizza.jpg",
+    "description": "A simple yet delicious pizza with fresh mozzarella, basil, and a homemade tomato sauce on a thin crust.",
+    "ingredients": [
+      "1 pizza dough",
+      "1/2 cup tomato sauce",
+      "1 1/2 cups fresh mozzarella, sliced",
+      "1/4 cup fresh basil leaves",
+      "2 tablespoons olive oil",
+      "Salt and pepper to taste"
+    ],
+    "calories": 560,
+    "minutes": 40
+  },
+  {
+    "title": "Chocolate Avocado Mousse",
+    "image": "https://example.com/images/chocolate_avocado_mousse.jpg",
+    "description": "A rich and creamy chocolate mousse made with ripe avocados, cocoa powder, and a touch of vanilla.",
+    "ingredients": [
+      "2 ripe avocados",
+      "1/4 cup cocoa powder",
+      "1/4 cup maple syrup",
+      "1 teaspoon vanilla extract",
+      "Pinch of salt",
+      "Fresh berries for topping"
+    ],
+    "calories": 270,
+    "minutes": 15
+  }
+]
